@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Lava's blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Lavaちゃんねるのサイト兼備忘録
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/24203160?v=3&s=96/%E3%83%9E%E3%82%A4%20%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: lavasblog
   instagram:
   linkedin:
   pinterest:
