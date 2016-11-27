@@ -17,16 +17,11 @@ html {
   font-size: 100%;
 }
 
-@font-face {
-font-family: "YuGothWeb";
-  src: url('./_layouts/YuGothWeb.ttf') format("truetype");
-}
-
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-	font-family:YuGothWeb;
+	font-family: YuGothic, "Yu Gothic", 游ゴシック体;
 }
 
 .container {
