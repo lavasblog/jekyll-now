@@ -17,14 +17,14 @@ permalink: /about/
 
 **ツイッター**
 
-https://twitter.com/ikechanneru
+[https://twitter.com/ikechanneru](https://twitter.com/ikechanneru)
 
 **YouTube**
 
 いけちゃんねる
 
-https://www.youtube.com/channel/UCxoxozwROZmEUVRruEsnyCQ
+[https://www.youtube.com/channel/UCxoxozwROZmEUVRruEsnyCQ](https://www.youtube.com/channel/UCxoxozwROZmEUVRruEsnyCQ)
 
 ラヴァちゃんねる
 
-https://www.youtube.com/channel/UCHd-ArcI-eczkBSkSGC1IQw
+[https://www.youtube.com/channel/UCHd-ArcI-eczkBSkSGC1IQw](https://www.youtube.com/channel/UCxoxozwROZmEUVRruEsnyCQ)
