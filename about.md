@@ -7,11 +7,13 @@ permalink: /about/
 これはラヴァちゃんねるのサイトです。  
 ブログみたいに短い記事をツイッター感覚であげたりする予定
 
+
 ### Contact me
 
 [ikechanneru@gmail.com](mailto:ikechanneru@gmail.com)
 
 連絡はここによろしくです。
+
 
 ### Link
 
