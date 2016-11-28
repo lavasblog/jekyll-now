@@ -15,11 +15,11 @@ permalink: /about/
 
 ### Link
 
-##### ツイッター
+#### ツイッター
 
 https://twitter.com/ikechanneru
 
-##### YouTube
+#### YouTube
 
 いけちゃんねる
 
