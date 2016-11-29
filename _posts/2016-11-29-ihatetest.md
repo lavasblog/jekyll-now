@@ -1,5 +1,7 @@
 ---
 layout: post
-title: Jekyll Nowでブログ開設してみた
+title: Minecraft バージョン1.11は軽かった！
 ---
+マイクラのバージョン1.11が結構軽かったお話
+
 
