@@ -17,16 +17,13 @@ html {
   font-size: 100%;
 }
 
-@font-face {
-	font-family: 'YuGothWeb';
-	src: url('https://dl.dropboxusercontent.com/s/8whpatb3jst3oit/YuGothWeb.ttf') format('truetype');
-}
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-	font-family: YuGothic, "Yu Gothic", 游ゴシック体, YuGothWeb;
+	font-family: 'Noto Sans Japanese', YuGothic, "Yu Gothic", 游ゴシック体;
 }
 
 .container {
