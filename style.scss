@@ -21,9 +21,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-	font-family: 'Noto Sans Japanese', YuGothic, "Yu Gothic", 游ゴシック体;
+	font: 18px/1.4 $helvetica;
+	color: $darkGray;
+	font-family: YuGothic, "Yu Gothic", 游ゴシック体, 'Noto Sans Japanese';
 }
 
 .container {
