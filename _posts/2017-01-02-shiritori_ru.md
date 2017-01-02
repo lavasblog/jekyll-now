@@ -115,3 +115,8 @@ title: しりとり「る」で攻められたときに使える単語15選！+�
 ・「**琉**」音：**ル**、**リュウ**　~~訓~~
 
 ・「**瑠**」音：**ル**　~~訓~~
+ 
+<script type="text/javascript">
+var nend_params = {"media":44323,"site":242011,"spot":696590,"type":1,"oriented":1};
+</script>
+<script type="text/javascript" src="https://js1.nend.net/js/nendAdLoader.js"></script>
