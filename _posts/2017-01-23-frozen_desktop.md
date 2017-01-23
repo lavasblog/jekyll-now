@@ -10,7 +10,7 @@ title: 【Electron】暇なのでデスクトップ凍らせたったw
  
 ## スクリーンショット
  
-![氷](http://i.imgur.com/8J1QheO.png)
+![氷](https://i.imgur.com/8J1QheO.png)
  
 ## ダウンロード
  
