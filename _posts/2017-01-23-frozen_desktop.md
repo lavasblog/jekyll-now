@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Electron]暇なのでデスクトップ凍らせたったｗ
+title: 【Electron】暇なのでデスクトップ凍らせたったw
 ---
 
 暇人かよ
