@@ -18,6 +18,5 @@ title: 【Electron】暇なのでデスクトップ凍らせたったw
  frozen_desktop-win-1920x1080.zip(36.9MB)  
 ※画面の解像度が1920x1080(フルHD)限定です。
  
- 各種注意事項についてはReadMeを参照してください。また、このゴミアプリをサイトなどで紹介していただいてもかまいませんが(ていうかしてください)、このサイトのURL  
- ([https://lavasblog.github.io/frozen_desktop/](https://lavasblog.github.io/frozen_desktop/))と  
+ 各種注意事項についてはReadMeを参照してください。また、このゴミアプリをサイトなどで紹介していただいてもかまいませんが(ていうかしてください)、このサイトのURL([https://lavasblog.github.io/frozen_desktop/](https://lavasblog.github.io/frozen_desktop/))と  
  著作権者 ラヴァ をどこかに記載してください。
